@@ -1,0 +1,4 @@
+to have the hash(unique face identifier+secret code) in the qr code for each user
+
+first scan the qr code, then the face recognition(when detected get the unique face identifier and then add 
+secret key, hash it then compare for authentication)
